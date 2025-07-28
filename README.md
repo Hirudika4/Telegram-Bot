@@ -1,4 +1,4 @@
-# 🤖 Joke_Bot — AI-Powered Telegram Joke Generator
+# 🤖 Joke_Bot — AI Powered Telegram Joke Generator
 
 **Joke_Bot** is a fun and intelligent Telegram bot that generates AI-powered jokes on any topic you mention. Built using **LangChain**, **Groq's LLM**, and the **python-telegram-bot** library, this bot brings humor to your chat with just a simple mention!
 
